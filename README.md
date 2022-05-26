@@ -1,6 +1,7 @@
 # libasm
-My 42 Lyon's libasm
 
-Feel free to put your own .s in "sources/" to test them
+## My 42 Lyon's libasm
 
-use "make moulinette" to start the tests with main
+A very simple project, as an introduction to ASM. Some basic C functions have been recoded.
+
+Full subjet is available [here](/docs).
